@@ -1,4 +1,0 @@
-crewai
-fastapi
-uvicorn
-openai    # si tu utilises l’API OpenAI
